@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Olá! Sou a Michelle </h1>
 
-<!--
-**michellerbroch/michellerbroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Sempre buscando aprender e evoluir  
 
-Here are some ideas to get you started:
+### Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** JavaScript, C#, HTML, CSS  
+- **Frameworks & Tecnologias:** ASP.NET Core, Bootstrap
+- **Ferramentas:** Git/GitHub, VS Code, Visual Studio 
+- **Metodologias:** Metodologias Ágeis (Scrum e Kanban), Versionamento de Código
+  
+---
+
+### Conecte-se comigo
+
+<p align="left">
+  <a href="www.linkedin.com/in/michelle-rossi-broch-162680325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://github.com/michellerbroch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+    
+  <a href="mailto:michellerossibroch@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  </p>
