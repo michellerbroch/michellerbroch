@@ -6,7 +6,7 @@
 ### Minhas Habilidades
 
 - **Linguagens:** JavaScript, C#, HTML, CSS  
-- **Frameworks & Tecnologias:** ASP.NET Core, Bootstrap
+- **Frameworks & Tecnologias:** ASP.NET Core, Bootstrap, Entity Framework Core
 - **Ferramentas:** Git/GitHub, VS Code, Visual Studio 
 - **Metodologias:** Metodologias Ágeis (Scrum e Kanban), Versionamento de Código
   
